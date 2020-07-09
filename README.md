@@ -1,6 +1,6 @@
 **Description :**
 
-I wrote this code to but my favorite song as story on facebook or whatsapp , to make this possible need to split it into small clips with length 24s to be acceptable 
+I wrote this code to upload my favorite song as story on facebook or whatsapp , to make this possible i needed to split it into small clips with length 24s to be acceptable 
 
 
   
