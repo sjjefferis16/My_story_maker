@@ -8,7 +8,7 @@ I wrote this code to upload my favorite song as story on facebook or whatsapp , 
 **Dependencies :**
 
 - go to ffmpeg.org  => Download =>  Get packages & executable files " select the suitable to your OS "
-- then extract the following to the folder of the project
+- then extract the following to the folder of the project from `bin` folder inside the archive
   - ffmpeg
   - ffplay
   - ffprobe
