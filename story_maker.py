@@ -31,7 +31,7 @@ ARGS=parser.parse_args()
 img         =ARGS.img
 track       =ARGS.audio
 duration    =ARGS.duration
-SPLITDURATION = duration
+SPLITDURATION = getTotalDuration(track)
 
 def getTotalDuration(inputfile):
     filelengthOutput = subprocess.run(["ffprobe", "-i", inputfile, "-show_format",
